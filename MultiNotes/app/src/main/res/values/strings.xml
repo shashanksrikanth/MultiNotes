@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="add_note_text">Add Note Text</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_date">Note Date</string>
+    <string name="note_text">Note Text</string>
+    <string name="add">Add</string>
+    <string name="about">Info</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="save">SAVE</string>
+    <string name="notes_file">NotesFile.json</string>
+</resources>
